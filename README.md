@@ -3,7 +3,8 @@
 <img src="https://img.shields.io/badge/JavaScipt-F7DF1E?style=for-the-badge&logo=JavaScipt&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue&logoColor=white">
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=foxmon&theme=great-gatsby)](https://git.io/streak-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foxmon&show_icons=true&theme=great-gatsby)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=foxmon&theme=great-gatsby)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foxmon&show_icons=true&theme=great-gatsby)
 
 <!--
 **FoxMon/FoxMon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
