@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=000&height=120&section=header&text=Hi%20there👋&fontSize=80&fontColor=ffc501)
 
-<img src="https://img.shields.io/badge/JavaScipt-F7DF1E?style=for-the-badge&logo=JavaScipt&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScipt-F7DF1E?style=for-the-badge&logo=JavaScipt&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=foxmon&theme=great-gatsby)](https://git.io/streak-stats)
