@@ -1,6 +1,6 @@
 ### Hi, I'm JunHo Kim
 
-JavaScript, TypeScript를 좋아합니다.
+JavaScript, TypeScript, Kotlin을 좋아합니다.
 
 <br />
 
@@ -8,5 +8,6 @@ JavaScript, TypeScript를 좋아합니다.
 
 - JavaScript
 - TypeScript
+- Kotlin
 
 <br />
